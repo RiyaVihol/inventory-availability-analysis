@@ -70,6 +70,8 @@ The current inventory system does not update product availability accurately acr
 
       TO-BE Process
 
+   
+
 1. Customer opens the website
         ↓
 2. Customer views product
@@ -152,15 +154,15 @@ For a successful order: Proceed to payment → Payment successful → Inventory 
 
       Exception / Error Scenarios
 
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|                                          
+|--------------------------------------------------------------------------                                         
 | ID    | Scenario                                      | Expected System Behaviour                                                                    |  
 |------|-----------------------------------------------------------------------------------------------------------------------------------------|                                          
 | EX-01 | Product has zero stock                         |Display “Out of Stock” and disable ordering.                                                   |
 | EX-02 | Customer attempts to order an unavailable product |Prevent the order from being placed.                                                           |
 | EX-03 | Inventory update fails                         |Display an appropriate error and prevent incorrect inventory information from being published.  |
-| EX-04 | Unauthorised user attempts to update inventory    |Reject the update and prevent modification.                                                     |
+| EX-04 | Unauthorised user attempts to update inventory    |Reject the update and prevent modification.                                                 
 | EX-05 | Inventory information cannot be synchronised      |Flag the synchronisation issue for investigation rather than displaying unverified availability |
-|----- -|-----------------------------------------------------------------------------------------------------------------------------------------------------|                                          
+                                        
 
       User / System Interactions
 
