@@ -202,12 +202,13 @@ Inventory updated → Order confirmed.
                           attempts to update      prevent modification.
                           inventory               
 
-  EX-05                   Inventory information   Flag the
+   EX-05                   Inventory information   Flag the
                           cannot be synchronised  synchronisation issue
                                                   for investigation
                                                   rather than displaying
                                                   unverified
                                                   availability.
+                                                  
   -----------------------------------------------------------------------
 
 ## User / System Interactions
