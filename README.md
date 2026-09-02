@@ -35,7 +35,7 @@ The current inventory system does not update product availability accurately acr
 
 4. Tools Used
 
- Excel | SQL | Tableau | Jira
+   Excel | SQL | Tableau | Jira
 
 5. Key Business Findings
 
@@ -57,10 +57,13 @@ The current inventory system does not update product availability accurately acr
 - Monitor inventory-related cancellations and discrepancies after implementation.
 
  7. Dashboard Preview
+  
+     [Tableau Dashboard](assets/tableau_dashboard.png)
 
- [Tableau Dashboard](assets/tableau_dashboard.png)
+ 8. Analysis Preview
  
+    [Excel Analysis](02_Excel/Excel%20Analysis)
+ 
+  9. Project Outcome
 
- 8. Project Outcome
-
-The analysis identifies where inventory accuracy problems are concentrated and translates the findings into business priorities and system requirements for improving product availability and reducing inventory-related cancellations.
+     The analysis identifies where inventory accuracy problems are concentrated and translates the findings into business priorities and         system requirements for improving product availability and reducing inventory-related cancellations.
