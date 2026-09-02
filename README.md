@@ -62,7 +62,7 @@ The current inventory system does not update product availability accurately acr
 
  8. Analysis Preview
  
- [Excel Analysis](02_Excel/Excel%20Analysis)
+     [Excel Analysis](02_Excel/Excel%20Analysis)
  
   9. Project Outcome
 
