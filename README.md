@@ -35,17 +35,17 @@ The current inventory system does not update product availability accurately acr
 
 4. Tools Used
 
-Excel | SQL | Tableau | Jira
+ Excel | SQL | Tableau | Jira
 
 5. Key Business Findings
 
-1. S03 has the highest inventory discrepancy:15 out of 22 total discrepancy units (~68%).
-2. 4K Monitor and Tablet Air are the biggest discrepancy contributors: together 18 out of 22 (~82%) of total discrepancy.
-3. S03 is the first investigation priority, particularly for 4K Monitor and Tablet Air.
-4. Wireless Mouse has the highest order quantity, but it is not one of the major discrepancy products.
-5. High order volume does not automatically mean high inventory discrepancy.
-6. In the analysed data, all 5 cancelled orders were associated with an out-of-stock reason.
-7. S03 also has the highest data-error count (3), strengthening the case for investigating its inventory records/processes.
+- S03 has the highest inventory discrepancy:15 out of 22 total discrepancy units (~68%).
+- 4K Monitor and Tablet Air are the biggest discrepancy contributors: together 18 out of 22 (~82%) of total discrepancy.
+- S03 is the first investigation priority, particularly for 4K Monitor and Tablet Air.
+- Wireless Mouse has the highest order quantity, but it is not one of the major discrepancy products.
+- High order volume does not automatically mean high inventory discrepancy.
+- In the analysed data, all 5 cancelled orders were associated with an out-of-stock reason.
+- S03 also has the highest data-error count (3), strengthening the case for investigating its inventory records/processes.
 
 6. Recommendations
 
@@ -59,6 +59,7 @@ Excel | SQL | Tableau | Jira
  7. Dashboard Preview
 
  [Tableau Dashboard](assets/tableau_dashboard.png)
+ 
 
  8. Project Outcome
 
